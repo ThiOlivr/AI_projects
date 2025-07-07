@@ -1,2 +1,2 @@
-# AI_projectd
+# AI_projects
 Projects using ML and DL models
